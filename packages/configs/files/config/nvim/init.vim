@@ -138,7 +138,7 @@ call coc#add_extension(
     \ 'coc-java',
     \ 'coc-json',
     \ 'coc-python',
-    \ 'coc-rls',
+    \ 'coc-rust-analyzer',
     \ 'coc-snippets',
     \ 'coc-solargraph',
     \ 'coc-tslint-plugin',
